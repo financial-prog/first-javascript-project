@@ -1,0 +1,16 @@
+body {
+            background-color: white;
+ }
+ button {
+    box-shadow: none;
+    border-radius: 16px;
+    padding: 32px;
+    font-size: 32px;
+ }
+
+ .btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 200px;
+ }
